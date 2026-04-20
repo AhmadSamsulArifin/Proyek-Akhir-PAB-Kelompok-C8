@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# cireng_mama_piya
-
-A new Flutter project.
-=======
 <div align="center">
 
 # 🧾 Proyek Akhir PAB  
@@ -1740,4 +1735,3 @@ Terima kasih telah membaca dokumentasi project kami.
 **Proyek Akhir PAB Kelompok C8**
 
 </div>
->>>>>>> b9b512b8f1b43bb6249616e134202a42d2922b92
